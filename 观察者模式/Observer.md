@@ -18,5 +18,5 @@ WeatherData implement Subject
 
 WebObserver implements Observer
 AppObserver implements Observer
-...
+....
 
