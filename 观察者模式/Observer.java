@@ -20,3 +20,5 @@ WebObserver implements Observer
 AppObserver implements Observer
 ....
 
+在JDK中的Observable和Observer两个类是对观察者模式的一种应用。不过在JDK中Observable是一个类而不是一个接口。
+
